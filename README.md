@@ -25,11 +25,9 @@ npm install gh-pages
 ## Recipe
 
 - [x] Make Project
-- [] Component
-- [] Ajax, JSON
-- [] Async-Await
-- [] Updating Movie Component
-- [] Deploy(Production)
+- [x] Component
+- [x] Updating Image Component
+- [x] Deploy(Production)
 
 ## Page
 
