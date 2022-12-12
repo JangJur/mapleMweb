@@ -1,6 +1,29 @@
 {
-  "main.css": "static/css/main.07dbda29.css",
-  "main.css.map": "static/css/main.07dbda29.css.map",
-  "main.js": "static/js/main.6e47d531.js",
-  "main.js.map": "static/js/main.6e47d531.js.map"
+  "files": {
+    "main.css": "/ledya-notes/static/css/main.cf826a5f.chunk.css",
+    "main.js": "/ledya-notes/static/js/main.1284d477.chunk.js",
+    "main.js.map": "/ledya-notes/static/js/main.1284d477.chunk.js.map",
+    "runtime-main.js": "/ledya-notes/static/js/runtime-main.c7aef9a8.js",
+    "runtime-main.js.map": "/ledya-notes/static/js/runtime-main.c7aef9a8.js.map",
+    "static/js/2.c310b86f.chunk.js": "/ledya-notes/static/js/2.c310b86f.chunk.js",
+    "static/js/2.c310b86f.chunk.js.map": "/ledya-notes/static/js/2.c310b86f.chunk.js.map",
+    "index.html": "/ledya-notes/index.html",
+    "static/css/main.cf826a5f.chunk.css.map": "/ledya-notes/static/css/main.cf826a5f.chunk.css.map",
+    "static/js/2.c310b86f.chunk.js.LICENSE.txt": "/ledya-notes/static/js/2.c310b86f.chunk.js.LICENSE.txt",
+    "static/media/레댜.jpg": "/ledya-notes/static/media/레댜.8294a7ac.jpg",
+    "static/media/루타_앱솔_템셋_비교.jpg": "/ledya-notes/static/media/루타_앱솔_템셋_비교.c3612836.jpg",
+    "static/media/메르_스킬_보스.jpg": "/ledya-notes/static/media/메르_스킬_보스.8b832a3b.jpg",
+    "static/media/메르_스킬_사냥.jpg": "/ledya-notes/static/media/메르_스킬_사냥.b2218171.jpg",
+    "static/media/메르_코강.jpg": "/ledya-notes/static/media/메르_코강.89e006e1.jpg",
+    "static/media/메르_하이퍼_스킬_패시브.jpg": "/ledya-notes/static/media/메르_하이퍼_스킬_패시브.34741bc5.jpg",
+    "static/media/메르_하이퍼_스텟.jpg": "/ledya-notes/static/media/메르_하이퍼_스텟.cd6dbef3.jpg",
+    "static/media/불독_코강.jpg": "/ledya-notes/static/media/불독_코강.cb2a91ab.jpg",
+    "static/media/태성비.jpg": "/ledya-notes/static/media/태성비.9591f325.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7aef9a8.js",
+    "static/js/2.c310b86f.chunk.js",
+    "static/css/main.cf826a5f.chunk.css",
+    "static/js/main.1284d477.chunk.js"
+  ]
 }
