@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mapleMweb/static/css/main.cf826a5f.chunk.css",
-    "main.js": "/mapleMweb/static/js/main.ee04c719.chunk.js",
-    "main.js.map": "/mapleMweb/static/js/main.ee04c719.chunk.js.map",
+    "main.js": "/mapleMweb/static/js/main.e8bdf3fc.chunk.js",
+    "main.js.map": "/mapleMweb/static/js/main.e8bdf3fc.chunk.js.map",
     "runtime-main.js": "/mapleMweb/static/js/runtime-main.0efd62ae.js",
     "runtime-main.js.map": "/mapleMweb/static/js/runtime-main.0efd62ae.js.map",
     "static/js/2.c310b86f.chunk.js": "/mapleMweb/static/js/2.c310b86f.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.0efd62ae.js",
     "static/js/2.c310b86f.chunk.js",
     "static/css/main.cf826a5f.chunk.css",
-    "static/js/main.ee04c719.chunk.js"
+    "static/js/main.e8bdf3fc.chunk.js"
   ]
 }
