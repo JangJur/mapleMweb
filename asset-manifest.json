@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/mapleMweb/static/css/main.cf826a5f.chunk.css",
-    "main.js": "/mapleMweb/static/js/main.f360066d.chunk.js",
-    "main.js.map": "/mapleMweb/static/js/main.f360066d.chunk.js.map",
+    "main.js": "/mapleMweb/static/js/main.a6470fc2.chunk.js",
+    "main.js.map": "/mapleMweb/static/js/main.a6470fc2.chunk.js.map",
     "runtime-main.js": "/mapleMweb/static/js/runtime-main.0efd62ae.js",
     "runtime-main.js.map": "/mapleMweb/static/js/runtime-main.0efd62ae.js.map",
-    "static/js/2.c310b86f.chunk.js": "/mapleMweb/static/js/2.c310b86f.chunk.js",
-    "static/js/2.c310b86f.chunk.js.map": "/mapleMweb/static/js/2.c310b86f.chunk.js.map",
+    "static/js/2.f1f27113.chunk.js": "/mapleMweb/static/js/2.f1f27113.chunk.js",
+    "static/js/2.f1f27113.chunk.js.map": "/mapleMweb/static/js/2.f1f27113.chunk.js.map",
     "index.html": "/mapleMweb/index.html",
     "static/css/main.cf826a5f.chunk.css.map": "/mapleMweb/static/css/main.cf826a5f.chunk.css.map",
-    "static/js/2.c310b86f.chunk.js.LICENSE.txt": "/mapleMweb/static/js/2.c310b86f.chunk.js.LICENSE.txt",
+    "static/js/2.f1f27113.chunk.js.LICENSE.txt": "/mapleMweb/static/js/2.f1f27113.chunk.js.LICENSE.txt",
     "static/media/군단장_보스.jpg": "/mapleMweb/static/media/군단장_보스.34dc4210.jpg",
+    "static/media/덩이형_명언.jpg": "/mapleMweb/static/media/덩이형_명언.bfbfbab6.jpg",
     "static/media/레댜.jpg": "/mapleMweb/static/media/레댜.8294a7ac.jpg",
     "static/media/루타_앱솔_템셋_비교.jpg": "/mapleMweb/static/media/루타_앱솔_템셋_비교.c3612836.jpg",
     "static/media/메르_스킬.jpg": "/mapleMweb/static/media/메르_스킬.3cc1079b.jpg",
@@ -22,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0efd62ae.js",
-    "static/js/2.c310b86f.chunk.js",
+    "static/js/2.f1f27113.chunk.js",
     "static/css/main.cf826a5f.chunk.css",
-    "static/js/main.f360066d.chunk.js"
+    "static/js/main.a6470fc2.chunk.js"
   ]
 }
