@@ -30,7 +30,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://JangJur.github.io/ledya-notes",
+  "homepage": "http://JangJur.github.io/mapleMweb",
   "devDependencies": {
     "gh-pages": "^1.2.0"
   },

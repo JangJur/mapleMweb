@@ -3,10 +3,9 @@ import './BoxComp.css';
 
 function BoxComp(props) {
 
-  const [img, setImg] = useState('/ledya-notes/img/레댜.jpg');
+  const [img, setImg] = useState('/mapleMweb/img/레댜.jpg');
 
   useEffect(() => {
-    console.log('props.img : ', props.img);
     if (props.img !== '') {
       setImg(props.img);
     }
