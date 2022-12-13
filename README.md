@@ -31,4 +31,4 @@ npm install gh-pages
 
 ## Page
 
-http://JangJur.github.io/ledya-notes
+http://JangJur.github.io/mapleMweb
